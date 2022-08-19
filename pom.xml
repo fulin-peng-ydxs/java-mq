@@ -8,6 +8,8 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>mq-source</module>
+        <module>rabbit-mq</module>
+        <module>active-mq</module>
     </modules>
     <modelVersion>4.0.0</modelVersion>
 </project>
