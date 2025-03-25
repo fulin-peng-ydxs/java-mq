@@ -11,6 +11,12 @@
         <module>mq-rabbit</module>
         <module>mq-active</module>
         <module>mq-kafka</module>
+        <module>mq-emqx</module>
     </modules>
     <modelVersion>4.0.0</modelVersion>
+
+    <properties>
+        <junit-version>4.11</junit-version>
+    </properties>
+
 </project>
